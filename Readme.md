@@ -5,6 +5,8 @@ The CrossChain Educational Bridge is a smart contract designed to facilitate the
 
 ## Contract Address
 0x6E395a6454bc6BeCbe13A1aE9CE9942d731133bF
+![image](https://github.com/user-attachments/assets/33469a1e-b728-4cfb-b9e7-854298e43971)
+
 
 ## Project Vision
 The vision of the CrossChain Educational Bridge is to simplify and demystify cross-chain token transfers for developers and learners. By providing a robust and straightforward solution, the project aims to:
